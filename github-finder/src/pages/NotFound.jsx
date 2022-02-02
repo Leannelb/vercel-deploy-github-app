@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { FaHome } from 'react-icons/fa';
 
+// test for vercel deploy
 function NotFound() {
     return (
         <div>

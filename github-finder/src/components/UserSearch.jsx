@@ -13,10 +13,6 @@ function UserSearch() {
         setText(e.target.value);
     }
 
-    const clearUsers = () => {
-        setText('');
-    }
-
     const handleSubmit = async (e) => {
         e.preventDefault();
 
